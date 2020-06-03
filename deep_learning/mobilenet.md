@@ -1,7 +1,5 @@
 ## Mobile Net
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 Keypoints:
 
 1. 将标准的卷积操作拆分成了Depthwise Convolution和Pointwise Convolution
