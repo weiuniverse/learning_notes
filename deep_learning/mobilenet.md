@@ -1,6 +1,6 @@
-轻量级网络
-
 ## Mobile Net
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 Keypoints:
 
